@@ -60,6 +60,7 @@ Dashboards
 ![Order Dashboard](./Image/order.png)
 
 ⚡ Streaming Layer (Real-Time Pipeline)
+
 To complement the Batch layer, this project implements a Streaming Layer designed for real-time data processing and low-latency insights.
 
 Tech Stack:
