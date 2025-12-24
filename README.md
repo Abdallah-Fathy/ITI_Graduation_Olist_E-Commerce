@@ -5,6 +5,7 @@ This project implements a complete End-to-End Data Engineering Pipeline for the 
 
 Architecture
 The project follows a modern data stack approach as shown in the workflow:
+
 ![Project Workflow](./Image/Workflow_Pipeline.jpeg)
 
 ⚡ Batch Layer (Historical Pipeline)
@@ -43,14 +44,19 @@ Install dependencies: dbt deps
 Run transformations: dbt run
 
 ![Project Lineage](./Image/lineage.jpeg)
+
 ![Modeling](./Image/WareHouseModeling.drawio.png)
+
 ![Data Flows](./Image/airbyte1.jpeg)
 
 Key Performance Indicators (KPIs) tracked:
 
 Dashboards
+
 ![Revenue Dashboard](./Image/revenue.png)
+
 ![Customer Dashboard](./Image/customer.png)
+
 ![Order Dashboard](./Image/order.png)
 
 ⚡ Streaming Layer (Real-Time Pipeline)
