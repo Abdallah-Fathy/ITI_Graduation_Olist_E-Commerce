@@ -89,7 +89,7 @@ Nora Magdy  | [🔗 LinkedIn](https://www.linkedin.com/in/noramagdy) |
 
 Rehab Ramadan   | [🔗 LinkedIn](https://www.linkedin.com/in/rehab-ramadan-917027212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
-Abdallah Fathi  | [🔗 LinkedIn]() |
+Abdallah Fathi  | [🔗 LinkedIn](https://www.linkedin.com/in/abdullah-fathy/) |
 
 Anhar Mohamed  | [🔗 LinkedIn](https://www.linkedin.com/in/anhar-mohamed2/) |
 
